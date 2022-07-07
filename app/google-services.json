@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725728733487",
+    "project_id": "churchregister-6e2cc",
+    "storage_bucket": "churchregister-6e2cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725728733487:android:23bd2026e3a1eb6315d9da",
+        "android_client_info": {
+          "package_name": "com.example.churchregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725728733487-e0jcknvhhljpgv7s2rtd348t3b00isi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_WaUL8uw6DwfMxMtymQDZzM3r6g7ULCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725728733487-e0jcknvhhljpgv7s2rtd348t3b00isi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
